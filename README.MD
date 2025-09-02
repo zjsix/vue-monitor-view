@@ -50,7 +50,7 @@ npm run start
 
 加入初始管理员账号 admin / admin123
 ```sql
-INSERT INTO `user` VALUES (1, 'admin', '44A5B3613E9FD52130161056F51D2F', 1, 'zj_1997@163.com', '2025-09-02 11:38:00', '2025-09-02 11:38:03');
+INSERT INTO `user` VALUES (1, 'admin', '839B1FAA33C75B913B066ED0E50DD7', 1, 'zj_1997@163.com', '2025-09-02 11:38:00', '2025-09-02 11:38:03');
 ```
 mysql需要5.7以上版本
 
